@@ -1,5 +1,5 @@
 import numpy as np
-
+#对数据进行标准化（standardize）处理的几种方法
 
 def dy_min_max(x):
     x = np.array(x)
